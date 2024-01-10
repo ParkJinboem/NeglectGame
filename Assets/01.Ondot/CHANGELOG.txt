@@ -1,0 +1,18 @@
+Change Log
+
+**************
+Version x.x.x
+**************
+
+Plugin:
+- Added xxxx.
+- Updated xxxx.
+- Fixed xxxx.
+
+**************
+Version 1.0.0
+**************
+
+Plugin:
+- Added Plugin
+
